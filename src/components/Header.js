@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from './Button'
 import PropTypes from 'prop-types'
-
+//Responsible for the title
 const Header = ({title}) => {
   const onClick = () => {
     console.log('Click')

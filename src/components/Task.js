@@ -11,5 +11,5 @@ const Task = ({ task, onDelete }) => {
     </div>
   )
 }
-
+//Responsible for each individual task and how we delete
 export default Task

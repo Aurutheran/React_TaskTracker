@@ -35,6 +35,6 @@ const deleteTask = (id) =>{
     </div>
   )
 }
-
+//Responsible for the entire app
 
 export default App
